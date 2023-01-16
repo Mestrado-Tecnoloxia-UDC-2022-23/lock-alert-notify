@@ -20,4 +20,4 @@ Un notificador de alertas no caso de apertura dunha taquilla.
 
 ![sample](resources/sample.jpeg)
 
-https://youtu.be/qV1CJKUUlZU
+[![Demo Lock Email notifier](http://img.youtube.com/vi/qV1CJKUUlZU/0.jpg)](http://www.youtube.com/watch?v=qV1CJKUUlZU "Demo Lock Email Notifier")
