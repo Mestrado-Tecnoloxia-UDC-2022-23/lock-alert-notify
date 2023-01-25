@@ -2,11 +2,15 @@
 
 Un notificador de alertas no caso de apertura dunha taquilla.
 
-## Require
+## Requisitos
 
-- Pico Pi W
-- Micropython
-- Thonny
+- [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+- [MicroPython](https://micropython.org/)
+- [Thonny IDE](https://thonny.org/)
+
+## Instalación
+
+Instalar o último _firmware_ de Raspberry Pi Pico.
 
 ## Esquema
 
@@ -14,7 +18,7 @@ Un notificador de alertas no caso de apertura dunha taquilla.
 
 ## Pseudo código
 
-![scratch](resources/pseudocode.jpeg)
+![Diagrama de Flow](resources/diagrama-flow.png)
 
 ## Sample
 
